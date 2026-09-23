@@ -38,7 +38,7 @@ I am a data-driven specialist bridging the gap between human behavior, operation
 ### 📬 Connect with me
 
 - 💼 **LinkedIn:** [Ewa Dreszer](https://www.linkedin.com/in/ewa-dreszer/)
-- 📧 **Email:** [evumconcept@google.com](mailto:evumconcept@google.com)
+- 📧 **Email:** [ewadreszer@google.com](mailto:ewadreszer@google.com)
 
----
+
 *Feel free to check out my repositories below to see my work and case studies!*

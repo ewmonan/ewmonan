@@ -13,7 +13,7 @@ I am a data-driven specialist bridging the gap between human behavior, operation
 - 📈 **Google Advanced Data Analytics Professional Certificate** — *(In Progress)* — [Course Link](https://www.coursera.org/specializations/google-advanced-data-analytics)
 - 🗣️ **EF SET English C2 Proficient** *(Score: 90/100)* — [Verify Certificate](https://cert.efset.org/en/wmRsJj)
 - 🤝 **Poznań University of Economics and Business: B2B Marketing Strategy** — [Verify Certificate](navoica.pl/certificates/86d5792553e347b6b845ab6263541636)
-- 🏛️ **University of Economics and Human Sciences in Warsaw: Organization and Management Theory** — [Verify Certificate](navoica.pl/certificates/ba570d9e2a64491caabb6e1a9000d468)
+- 🏛️ **University of Economics and Human Sciences in Warsaw: Organization and Management Theory** — [Verify Certificate](https://navoica.pl/certificates/ba570d9e2a64491caabb6e1a9000d468)
 
 ---
 

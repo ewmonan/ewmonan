@@ -6,14 +6,14 @@ I am a data-driven specialist bridging the gap between human behavior, operation
 
 ### 🎓 My Professional Credentials & Badges
 
-<!-- Odznaki Certyfikatów z bezpośrednimi linkami weryfikacyjnymi -->
+<!-- Verified Credentials & Certificates -->
 
-- [![Google Cybersecurity](https://shields.io)](https://coursera.org)
-- [![Meta Marketing Analytics](https://shields.io)](https://coursera.org)
-- [![Google Advanced Data Analytics](https://shields.io)](https://coursera.org)
-- [![EF SET English C2](https://shields.io)](https://efset.org)
-- [![Navoica B2B Marketing](https://shields.io)](https://navoica.pl)
-- [![Navoica Management Theory](https://shields.io)](https://navoica.pl)
+- 🛡️ **Google Cybersecurity Professional** — [Verify Certificate](https://coursera.org)
+- 📊 **Meta Marketing Analytics** — [Verify Certificate](https://coursera.org)
+- 📈 **Google Advanced Data Analytics** — *(In Progress)* — [Course Link](https://coursera.org)
+- 🇬🇧 **EF SET English C2 Proficient** *(Score: 90/100)* — [Verify Certificate](https://efset.org)
+- 🤝 **Navoica: B2B Marketing Strategy** — [Verify Certificate](https://navoica.pl)
+- 🏛️ **Navoica: Organization and Management Theory** — [Verify Certificate](https://navoica.pl)
 
 ---
 

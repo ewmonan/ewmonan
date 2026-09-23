@@ -8,12 +8,12 @@ I am a data-driven specialist bridging the gap between human behavior, operation
 
 <!-- Verified Credentials & Certificates -->
 
-- 🛡️ **Google Cybersecurity Professional** — [Verify Certificate](https://coursera.org)
-- 📊 **Meta Marketing Analytics** — [Verify Certificate](https://coursera.org)
-- 📈 **Google Advanced Data Analytics** — *(In Progress)* — [Course Link](https://coursera.org)
-- 🇬🇧 **EF SET English C2 Proficient** *(Score: 90/100)* — [Verify Certificate](https://efset.org)
-- 🤝 **Navoica: B2B Marketing Strategy** — [Verify Certificate](https://navoica.pl)
-- 🏛️ **Navoica: Organization and Management Theory** — [Verify Certificate](https://navoica.pl)
+🛡️ **Google Cybersecurity Professional** — [Verify Certificate](https://coursera.org)
+📊 **Meta Marketing Analytics** — [Verify Certificate](https://coursera.org)
+📈 **Google Advanced Data Analytics** — *(In Progress)* — [Course Link](https://coursera.org)
+🗣 **EF SET English C2 Proficient** *(Score: 90/100)* — [Verify Certificate](https://efset.org)
+🤝 **Navoica: B2B Marketing Strategy** — [Verify Certificate](https://navoica.pl)
+🏛️ **Navoica: Organization and Management Theory** — [Verify Certificate](https://navoica.pl)
 
 ---
 
